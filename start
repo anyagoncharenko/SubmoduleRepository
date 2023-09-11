@@ -1,0 +1,4 @@
+Cloning into 'C:/Work/TrainingRepository/SubmoduleRepository'...
+warning: You appear to have cloned an empty repository.
+fatal: You are on a branch yet to be born
+fatal: unable to checkout submodule 'SubmoduleRepository'
